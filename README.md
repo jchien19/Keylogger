@@ -1,2 +1,2 @@
 # Keylogger
-This is a python keylogger project.
+This is a python keylogger.
